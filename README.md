@@ -29,3 +29,6 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm test
+# status badge
+
+[![Node.js CI](https://github.com/AsravanthiR/githubactions_practice/actions/workflows/node.js.yml/badge.svg)](https://github.com/AsravanthiR/githubactions_practice/actions/workflows/node.js.yml)
